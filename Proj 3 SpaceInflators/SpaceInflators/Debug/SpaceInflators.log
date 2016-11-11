@@ -1,0 +1,20 @@
+﻿Build started 2/18/2013 7:29:00 PM.
+     1>Project "C:\Users\Patrick\Desktop\CS 32\Projects\Proj 3 SpaceInflators\SpaceInflators\SpaceInflators.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SpaceInflators.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\SpaceInflators.unsuccessfulbuild".
+         Touching "Debug\SpaceInflators.lastbuildstate".
+     1>Done Building Project "C:\Users\Patrick\Desktop\CS 32\Projects\Proj 3 SpaceInflators\SpaceInflators\SpaceInflators.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
